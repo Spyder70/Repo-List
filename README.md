@@ -29,3 +29,12 @@ Please wait for confirmation for the following issues below:
 - Add select box type to member attribute builder
                  - Apply to: https://demo-membership.test-kakeru.com/
                        - Repo: https://github.com/miraicSystem/futaba-membership-demo
+
+
+  Project: アイスタ【出張買取MAX】
+This is the KAKERU platform that we're intending to support up to 600 managers designated by area.
+Since we are still in predevelopment phase of this project, many things are subject to change. With that, I've added a couple of references that might help:
+
+https://nouvelleinterview.testweb-sys.com/
+https://github.com/miraicSystem/NOUVELLE
+- Though very different, this is one of our platforms that supports multiple different stores that can be useful for architecture and design
